@@ -6,5 +6,6 @@
 public class Test {
     public static void main(String[] args) {
         System.out.println("hello sun");
+        System.out.println("現在是20：37");
     }
 }
